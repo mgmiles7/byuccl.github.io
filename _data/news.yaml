@@ -1,3 +1,11 @@
+- event_name: LMTF Radiation Testing
+  date: 2026-06-05
+  description: >
+    Professor Jeff Goeders, along with students Jesse Farnsworth and Tyler Larsen, traveled to the Little Mountain Test Facility in Ogden, Utah to study radiation effects on an STM32 microcontroller and two different SRAM devices.  The testing helps characterize how these devices respond to radiation, informing the design of more reliable systems for harsh environments.
+  images:
+    - news_2026/lmtf_2026_1.jpg
+    - news_2026/lmtf_2026_2.jpg
+
 - event_name: FCCM 2026 & SCCM 2026
   date: 2026-05-04
   description: >
