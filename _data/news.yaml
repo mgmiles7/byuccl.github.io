@@ -7,6 +7,15 @@
     - news_2026/fccm_2026_2.jpg
     - news_2026/fccm_2026_1.jpg
 
+- event_name: Texas A&M Cyclotron
+  date: 2026-05-01
+  description: >
+    Professors Jeff Goeders and Mike Wirthlin, along with students Jesse Farnsworth and Isaac Garfield, traveled to the [Texas A&M University Cyclotron Institute](https://cyclotron.tamu.edu/) to perform heavy ion radiation testing.  The team studied how individual memory cells within a large memory array behaved under heavy ion strikes, gathering data to better understand the reliability of memory devices in radiation environments.
+  images:
+    - news_2026/tamu_cyclotron_1.jpg
+    - news_2026/tamu_cyclotron_2.jpg
+    - news_2026/tamu_cyclotron_3.jpg
+
 - event_name: FPT 2025
   date: 2025-12-10
   description: >
